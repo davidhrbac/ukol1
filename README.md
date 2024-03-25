@@ -1,6 +1,6 @@
 # ukol1
 
-
+pisu tu neco
 
 ## Getting started
 
